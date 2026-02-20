@@ -1,0 +1,19 @@
+
+# NetBeans build outputs
+**/build/
+
+# Maven build outputs
+**/target/
+
+# Compiled class files
+**/*.class
+
+# JAR files
+**/*.jar
+
+# NetBeans private folder (your personal settings)
+**/nbproject/private/
+
+
+# Maven build info
+**/dependency-reduced-pom.xml
